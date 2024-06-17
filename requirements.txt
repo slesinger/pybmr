@@ -18,5 +18,5 @@ requests==2.31.0
     #   requests-toolbelt
 requests-toolbelt==1.0.0
     # via -r requirements.in
-urllib3==2.2.1
+urllib3==2.2.2
     # via requests
